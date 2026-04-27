@@ -1,6 +1,6 @@
 ## Coffee Sales Dashboard 
 
-![Coffee Dashboard](coffee-dashboard.png)
+![Coffee Dashboard](coffee.png.png)
 
 ---
 
